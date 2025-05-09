@@ -1,5 +1,5 @@
 package com.vikas.leavemanagementbackend.model;
-
+import java.util.*;
 import jakarta.persistence.*;
 
 @Entity
